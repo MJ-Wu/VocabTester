@@ -1,0 +1,17 @@
+# Xcode
+*.xcuserstate
+*.xcuserdata
+DerivedData/
+Build/
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+
+# macOS
+.DS_Store
+Thumbs.db
+
+# icon build artifacts
+icon.iconset/
